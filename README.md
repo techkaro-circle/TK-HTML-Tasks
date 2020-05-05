@@ -16,7 +16,15 @@ Watch the [Youtube Video](https://youtu.be/bKzNhlM_E4A) on how to do HTML tasks.
 
 You will be given a concept / a screenshot / an existing website. Your job is to identify HTML elements in it and create a web page yourself using HTML and CSS.
 
-* After adding complete HTML, use your CSS concepts to apply styling in the webpage you just build with HTML
+## How to do styling in HTML Tasks?
+
+* After adding complete HTML, you can now use your CSS concepts to apply styling on the webpage you just build with HTML
+ - Hyperlinks styling
+ - Icon buttons
+ - Basic layout
+ - Positioning
+ - Pseudo classes
+ - Combinators
 
 ### How are the tasks named?
 Each task is named using the format `number-taskname`. The number signifies task difficulty on a scale of 10. So `05-sometask` will be more difficult than `02-anothertask`.
