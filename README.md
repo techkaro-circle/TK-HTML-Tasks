@@ -18,13 +18,13 @@ You will be given a concept / a screenshot / an existing website. Your job is to
 
 ## How to do styling in HTML Tasks?
 
-* After adding complete HTML, you can now use your CSS concepts to apply styling on the webpage you just build with HTML
- 1- Hyperlinks styling
- 2- Icon buttons
- 3- Basic layout
- 4- Positioning
- 5- Pseudo classes
- 6- Combinators
+After adding complete HTML, you can now use your CSS concepts to apply styling on the webpage you just build with HTML
+  - Hyperlinks styling
+  - Icon buttons
+  - Basic layout
+  - Positioning
+  - Pseudo classes
+  - Combinators
 
 ### How are the tasks named?
 Each task is named using the format `number-taskname`. The number signifies task difficulty on a scale of 10. So `05-sometask` will be more difficult than `02-anothertask`.
