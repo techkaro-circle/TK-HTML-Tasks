@@ -1,10 +1,8 @@
-# Tech Karo - HTML Tasks
+# Tech Karo - HTML & CSS Tasks
 
 | **Powered By** Tech Karo  |
 
-This repo contains several tasks to practice HTML
-
-| **Powered By** Tech Karo  |
+This repo contains several tasks to practice HTML along with CSS
 
 ## What is the Purpose of HTML Tasks?
 HTML Tasks are designed to help you identify different HTML elements in a web page and learn new HTML tags.
@@ -12,12 +10,13 @@ HTML Tasks are designed to help you identify different HTML elements in a web pa
 [Click to check the full list of HTML elements you can use in a web page.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## How to do HTML Tasks?
-* You only need HTML to complete these tasks.
-* No CSS required.
+* You first need HTML to complete these tasks.
 
 Watch the [Youtube Video](https://youtu.be/bKzNhlM_E4A) on how to do HTML tasks.
 
-You will be given a concept / a screenshot / an existing website. Your job is to identify HTML elements in it and create a web page yourself using HTML only.
+You will be given a concept / a screenshot / an existing website. Your job is to identify HTML elements in it and create a web page yourself using HTML and CSS.
+
+* After adding complete HTML, use your CSS concepts to apply styling in the webpage you just build with HTML
 
 ### How are the tasks named?
 Each task is named using the format `number-taskname`. The number signifies task difficulty on a scale of 10. So `05-sometask` will be more difficult than `02-anothertask`.
@@ -35,4 +34,4 @@ Assignments will be checked based on the following metrics
 - Attention to Details
 - Use [Comments](https://www.youtube.com/watch?v=jMCEt8ocvXM&list=PLyJQFJk781TLJqVkfLd-TnaWMhMrX0vq-&index=15&t=0s) wherever required
 - Follow [file naming conventions](https://www.youtube.com/watch?v=Iui2UtusKl4&list=PLyJQFJk781TLJqVkfLd-TnaWMhMrX0vq-&index=4&t=0s)
-
+- Apply similar styling as given in the mockup/webpage
